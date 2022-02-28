@@ -1,5 +1,5 @@
 # pdfx-tractor
-Extractor from Pdf to Image and Text v1.0
+Extractor from Pdf to Image and Text v1.22.0
 
 This version extracts only single documents!
 
